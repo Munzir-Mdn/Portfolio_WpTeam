@@ -48,7 +48,7 @@ portfolio_site/
 ## Live Demo
 
 You can deploy it using:
-- GitHub Pages: [https://Munzir-Mdn.github.io/portfolio-site](https://Munzir-Mdn.github.io/portfolio-site)
+- GitHub Pages: [[https://Munzir-Mdn.github.io/Portfolio_WpTeam](https://munzir-mdn.github.io/Portfolio_WpTeam/)]
 - Netlify: Drag and drop the folder at [https://app.netlify.com/drop](https://app.netlify.com/drop)
 
 ## License
